@@ -1,6 +1,10 @@
 // write your createStore function here
 
+<<<<<<< HEAD
 function createStore(reducer) {
+=======
+unction createStore(reducer) {
+>>>>>>> f75f9294f50d75cb8d81728063441eb50094eb27
   let state;
 
   function dispatch(action) {
